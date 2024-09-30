@@ -10,10 +10,6 @@ Cette semaine sera l'occasion de passer aussi de l'autre côté. Du côté obscu
 Nous allons découvrir comment exploiter des failles de sécurité, puis comment s'en défendre. 
 Ce sera l'opportunité d'apprendre à travers des défis. Certains que nous réussiront, d'autres que nous ne franchirons pas. Mais toujours dans l'objectif de comprendre ce que l'on fait et pourquoi on le fait.
 
-
-## Pourquoi la Sécurité est-elle Cruciale ?
-La sécurité informatique est devenue un enjeu majeur pour les entreprises et les particuliers. Les attaques peuvent avoir des conséquences dévastatrices, allant de la perte de données à l'atteinte à la réputation d'une organisation. Ce module vise à vous donner les outils nécessaires pour identifier, prévenir et réagir face aux menaces standard.
-
 ## Pré-requis
 Ce module est destiné à tous ceux qui souhaitent approfondir leurs connaissances en sécurité informatique. Aucune compétence préalable en sécurité n'est requise, mais une compréhension de base des concepts informatiques sera utile.
 
@@ -31,7 +27,7 @@ Ce module est destiné à tous ceux qui souhaitent approfondir leurs connaissanc
 - [Jour 1](https://github.com/HCode-Studio/CyberSecurity/blob/main/1.md)
 
 
-# Ressources et définitions en vrac
+# Ressources utiles et définitions en vrac
 
 ## Hacking éthique ?
 Le hacking éthique, aussi connu sous le nom de penetration testing (pentest), est une pratique légale et éthique qui consiste à tester la sécurité d'un système informatique ou d'un réseau en identifiant et en exploitant les vulnérabilités potentielles. Les professionnels du hacking éthique utilisent les mêmes techniques que les hackers malveillants, mais dans un cadre autorisé et dans le but d'améliorer la sécurité des systèmes en trouvant et en corrigeant les failles de sécurité avant qu'elles ne soient exploitées par des cybercriminels.
