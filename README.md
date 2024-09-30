@@ -7,7 +7,6 @@ Mais à quoi bon savoir les utiliser si on ne comprend pas à quoi ils servent, 
 La sécurité web est un domaine qui progresse parallèlement à la programmation, dans un espace discret. Si on ne regarde pas, il est presque difficile d'imaginer l'ampleur des événements qui ont lieu sous nos yeux. C'est une course constante et perdue d'avance sur laquelle nous avons une vision retardée, celle des défenseurs : Blue Team.
 Cette semaine sera l'occasion de passer aussi de l'autre côté. Du côté obscur. En devenant une Red Team.
 
-Nous verrons un petit bout d'histoire ( très subjectif ) de la sécurité à travers des profils et des événements qui m'ont personnellement marqué.
 Nous allons découvrir comment exploiter des failles de sécurité, puis comment s'en défendre. 
 Ce sera l'opportunité d'apprendre à travers des défis. Certains que nous réussiront, d'autres que nous ne franchirons pas. Mais toujours dans l'objectif de comprendre ce que l'on fait et pourquoi on le fait.
 
