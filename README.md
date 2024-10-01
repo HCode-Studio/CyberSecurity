@@ -24,7 +24,7 @@ Ce module est destiné à tous ceux qui souhaitent approfondir leurs connaissanc
 - [Présentation 2](https://docs.google.com/presentation/d/1X7ZIxAHNhV_0mTFzMVjjFFogl8tb2AlS5vEF75zchjk/edit#slide=id.p)
 
 - [Jour 1](https://github.com/HCode-Studio/CyberSecurity/blob/main/1.md)
-- [Jour 1](https://github.com/HCode-Studio/CyberSecurity/blob/main/2.md)
+- [Jour 2](https://github.com/HCode-Studio/CyberSecurity/blob/main/2.md)
 
 
 # Ressources utiles et définitions en vrac
